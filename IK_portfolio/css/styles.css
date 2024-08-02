@@ -1,0 +1,18 @@
+html{
+    font-family: IBM Plex Mono;
+}
+
+  .toggle {
+    display: none;
+  }
+
+  .active {
+    color: rgb(0, 255, 195);
+    /* font-style: italic; */
+    display: inline-block;
+  }
+  
+  #header {
+    color: rgb(0, 255, 195);
+
+  }
